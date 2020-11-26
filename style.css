@@ -4,3 +4,8 @@ body{
     background-position: center;
     background-repeat:no-repeat;
 }
+p{
+    color: white;
+}
+h1,h2{color: black;}
+li{color: white;}
